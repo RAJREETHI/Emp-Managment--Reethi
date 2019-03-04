@@ -1,0 +1,35 @@
+@import '~antd/dist/antd.css';
+h4 { margin-bottom: 16px; }
+.input-form {
+  /* padding-right: 5% */
+   /* width: 100%; */
+  margin: 0 30px 30px 0;
+ }
+
+/* .input-form .picture {
+  width: 60000px;
+  margin: 0 30px 40px 0;
+} */
+
+/* .input-form button {
+  margin: 20px 30px 30px 0;
+} */
+
+.radioGroup {
+  margin: 0 30px 30px 0;
+}
+
+/* .submit{
+  align-content: flex-start
+} */
+.resume .ant-cascader-menus{
+  width: 100%;
+}
+
+
+.ant-cascader-menus{
+  width:24%;
+}
+.ant-cascader-menu{
+  width: 100%;
+}
